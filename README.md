@@ -1,6 +1,8 @@
 <p align="center">
   <img src="assets/🚨👮🔎Crime_Detection_and_recognition.png" alt="Alt text" width="300"/>
 </p>
+
+
 ![Django](https://img.shields.io/badge/Django-green)
 ![YOLO](https://img.shields.io/badge/Yolo-blue)
 ![AI](https://img.shields.io/badge/AI-Machine_Learning-yellow)
